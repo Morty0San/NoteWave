@@ -1,0 +1,13 @@
+.folder {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.folder:hover {
+  background: #334155;
+}
+
+.active {
+  background: #6366f1;
+}
